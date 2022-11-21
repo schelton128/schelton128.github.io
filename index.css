@@ -1,0 +1,51 @@
+body{
+    text-align: justify;
+  
+}
+
+
+
+.baixo
+{
+    margin-top: 50px;
+    height:900px ;
+}
+
+.cor
+{
+ transition: 1s;
+  opacity: 1;
+}
+
+.minhacor:hover
+{
+  color: white;
+   opacity: 0.5;
+}
+
+.titulo
+{
+  color: red;
+}
+
+.reduzir
+{
+height:500px ;
+}
+
+strong
+{
+  padding:330px ;
+}
+
+.sobre
+{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.roimagem
+{
+width:450px ;
+}
+
+<h3 class="text-center"><a class="text-dark text-decoration-none" href="" id="home">bem vindo ao nosso site </a> </h3>
